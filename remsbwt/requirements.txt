@@ -1,0 +1,12 @@
+attrs
+cython
+Cython
+falcon
+falcon-autocrud
+gunicorn
+jsonschema
+marshmallow
+python-dateutil
+six
+#git+git://github.com/pysam-developers/pysam.git#egg=pysam
+#git+git://github.com/funkshun/msbwt3#egg=msbwt3

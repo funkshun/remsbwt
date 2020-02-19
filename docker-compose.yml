@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+    backend:
+        build: ./backend
+        
+        ports:
+            - 9000:8000
+        volumes:
+            - "./remsbwt:/remsbwt"
+
